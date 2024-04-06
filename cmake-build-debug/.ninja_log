@@ -1,0 +1,6 @@
+# ninja log v5
+1	97	7253352079791286	CMakeFiles/game.dir/main.c.obj	433cc670b8c75727
+8	175	7253352080631259	CMakeFiles/game.dir/game_logic.c.obj	1c68b8aa55c35f88
+176	488	7253352083557273	game.exe	fb8071d5f7c7806a
+0	295	7253352615263727	CMakeFiles/game.dir/game_logic.c.obj	1c68b8aa55c35f88
+295	431	7253352616330683	game.exe	fb8071d5f7c7806a
